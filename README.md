@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**GM1957/GM1957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +10,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/GM1957?label=Tanmoy%20Bhowmick&style=social">
+
+
+
+# GitHub Stats 📈
+[![Tanmoy's github stats](https://github-readme-stats.vercel.app/api?username=GM1957)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GM1957)](https://github.com/anuraghazra/github-readme-stats)
+## On-demand repository 👇
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GM1957&repo=python-short-projects)](https://github.com/GM1957/python-short-projects)
+
