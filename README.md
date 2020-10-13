@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I can switch from talking about code to talking about bikes, real fast.**
 
 <p align="center">
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <a href="https://twitter.com/grandmaster1957" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="grandmaster1957" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gm1957/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gm1957/" height="30" width="40" /></a>
 </p>
