@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 
 # GitHub Stats 📈
-[![Tanmoy's github stats](https://github-readme-stats.vercel.app/api?username=GM1957)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=GM1957&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/11700077"><img src="https://github-readme-stackoverflow.vercel.app/?userID=11700077&theme=dark" height="250"></a>
+|--|--|
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GM1957)](https://github.com/anuraghazra/github-readme-stats)
 ## On-demand repository 👇
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GM1957&repo=python-short-projects)](https://github.com/GM1957/python-short-projects)
