@@ -1,33 +1,117 @@
-<h1 align="center">Hi 👋, I'm Mohd Mujtaba (Mohd Aamir)</h1>
-<h3 align="center">A passionate backend developer who always wants to explore new things.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="iammujtaba" /> </p>
+# 👋 Hey there! I'm Mohd Mujtaba (Mohd Aamir)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammujtaba" alt="iammujtaba" /></a> </p>
+### 🚀 Senior Backend Engineer | Fintech Enthusiast | AI Explorer
+*A passionate backend developer who always wants to explore new things*
 
-- 🔭 I’m currently working on **Backend development**
+<img src="https://komarev.com/ghpvc/?username=iammujtaba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/iammujtaba](https://github.com/iammujtaba)
+</div>
 
-- 💬 Ask me about **backend technologies**
+---
 
-- ⚡ Fun fact **I can switch from talking about code to talking about Stock market, really fast.**
+<div align="center">
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/programmermohd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="programmermohd" height="30" width="40" /></a>
-<a href=https://www.linkedin.com/in/mohdmujtaba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohdmujtaba/" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=iammujtaba&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+</div>
 
-# GitHub Stats 📈
-<img src="https://github-readme-stats.vercel.app/api?username=iammujtaba&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/9935020"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9935020&theme=dark" height="250"></a>
-|--|--|
-<br>
+## 🎯 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammujtaba)](https://github.com/anuraghazra/github-readme-stats)
-## On-demand repository 👇
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iammujtaba&repo=supremecycle)](https://github.com/iammujtaba/supremecycle)
+- 🏢 **Currently:** Leading the mutual fund team at **Wealthy** as a Senior Software Engineer
+- 📍 **Location:** Khalilabad, India
+- 🔭 **Focus:** Backend development with Python, Django, FastAPI & AWS
+- 🤖 **Exploring:** Agentic AI with Google ADK and MCP
+- 💹 **Fun Fact:** I can switch from discussing clean code architecture to analyzing stock market trends in seconds!
+- 👨‍💻 **Portfolio:** [github.com/iammujtaba](https://github.com/iammujtaba)
+- 💬 **Ask me about:** Backend technologies, fintech solutions, or market analysis
 
+## 🛠️ Tech Stack & Expertise
+
+<div align="center">
+
+### **Core Technologies**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **AI & Automation**
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iammujtaba&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iammujtaba&theme=radical" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammujtaba&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Supreme Cycle](https://github-readme-stats.vercel.app/api/pin/?username=iammujtaba&repo=supremecycle&theme=radical)](https://github.com/iammujtaba/supremecycle)
+
+</div>
+
+## 📈 Stack Overflow Contribution
+
+<div align="center">
+
+<a href="https://stackoverflow.com/users/story/9935020">
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=9935020&theme=dark" height="250" alt="Stack Overflow Stats"/>
+</a>
+
+</div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/programmermohd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdmujtaba/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iammujtaba)
+
+</div>
+
+## 💭 Latest Thoughts
+
+> *"In fintech, every line of code can impact someone's financial future. That's what drives me to write cleaner, more efficient backend solutions."*
+
+---
+
+<div align="center">
+
+### 🎵 Currently Vibing To
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+
+*⭐️ From [iammujtaba](https://github.com/iammujtaba)*
+
+</div>
