@@ -18,7 +18,7 @@ I’m a backend engineer currently leading the Mutual Fund backend team at **Wea
 
 Over the last few years, I’ve worked on building and scaling fintech systems where correctness, consistency and reliability are critical — because real money is involved.
 
-I was promoted from **SDE-2 to SDE-3**, and today I work closely on architecture decisions, backend workflows, and production-grade AI integrations.
+I work closely on architecture decisions, backend workflows, and production-grade AI integrations.
 
 I enjoy solving problems around:
 
