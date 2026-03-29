@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohd Aamir (Mohd Mujtaba)
+# 👋 Hi, I'm Mohd Mujtaba
 
 ### Senior Backend Engineer • Fintech Systems Builder • AI Explorer
 
